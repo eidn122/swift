@@ -1,4 +1,4 @@
-# Add default compiler and linker flags to 'target'.
+	# Add default compiler and linker flags to 'target'.
 #
 # FIXME: this is a HACK.  All SourceKit CMake code using this function should be
 # rewritten to use 'add_swift_host_library' or 'add_swift_target_library'.
